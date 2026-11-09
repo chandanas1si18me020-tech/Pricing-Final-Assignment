@@ -1,0 +1,31 @@
+city,lat,lon,atri_region,outbound_factor
+"Chicago, IL",41.878,-87.63,Midwest,1.05
+"Columbus, OH",39.961,-82.999,Midwest,1.05
+"Indianapolis, IN",39.768,-86.158,Midwest,1.05
+"St. Louis, MO",38.627,-90.199,Midwest,1.0
+"Kansas City, MO",39.1,-94.579,Midwest,1.0
+"Detroit, MI",42.331,-83.046,Midwest,1.0
+"Minneapolis, MN",44.978,-93.265,Midwest,1.0
+"Atlanta, GA",33.749,-84.388,Southeast,1.05
+"Memphis, TN",35.15,-90.049,Southeast,1.05
+"Nashville, TN",36.163,-86.781,Southeast,1.0
+"Charlotte, NC",35.227,-80.843,Southeast,1.0
+"Savannah, GA",32.081,-81.091,Southeast,1.05
+"Jacksonville, FL",30.332,-81.656,Southeast,0.9
+"Lakeland, FL",28.04,-81.95,Southeast,0.85
+"Miami, FL",25.762,-80.192,Southeast,0.8
+"Dallas, TX",32.777,-96.797,South Central,1.05
+"Houston, TX",29.76,-95.37,South Central,1.05
+"Laredo, TX",27.506,-99.507,South Central,1.05
+"Oklahoma City, OK",35.468,-97.516,South Central,0.95
+"Los Angeles, CA",34.052,-118.244,West,1.1
+"Stockton, CA",37.958,-121.291,West,1.0
+"Phoenix, AZ",33.448,-112.074,West,0.95
+"Denver, CO",39.739,-104.99,West,0.9
+"Salt Lake City, UT",40.761,-111.891,West,0.95
+"Seattle, WA",47.606,-122.332,West,0.9
+"Portland, OR",45.515,-122.679,West,0.9
+"Harrisburg, PA",40.274,-76.884,Northeast,1.05
+"Allentown, PA",40.608,-75.49,Northeast,1.0
+"Newark, NJ",40.736,-74.172,Northeast,1.0
+"Boston, MA",42.36,-71.059,Northeast,0.85

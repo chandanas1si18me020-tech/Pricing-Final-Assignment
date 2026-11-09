@@ -1,0 +1,5 @@
+phase,months,avg_spot,avg_contract,avg_spread,spot_monthly_vol
+Trough,30,2.0833,2.4942,-0.4108,0.0194
+Recovery,6,2.5167,2.6583,-0.1417,0.0301
+Peak,10,2.98,2.996,-0.016,0.0244
+Correction,15,2.4034,2.96,-0.5566,0.0304

@@ -1,0 +1,61 @@
+{
+  "cost_per_mile_2025": {
+    "fuel": 0.482,
+    "truck_trailer_payments": 0.404,
+    "repair_maintenance": 0.215,
+    "insurance": 0.106,
+    "permits_licenses": 0.008,
+    "tires": 0.05,
+    "tolls": 0.043,
+    "driver_wages": 0.818,
+    "driver_benefits": 0.21
+  },
+  "cost_per_mile_2025_total": 2.336,
+  "truckload_sector_cost_per_mile_2025": 2.21,
+  "annual_miles_per_truck_2025": 85991,
+  "operating_days_per_year": 250,
+  "mpg_2025": 7.43,
+  "deadhead_share_2025": 0.165,
+  "industry_turnover_2025": 0.442,
+  "truckload_turnover_by_fleet_size_2025": {
+    "<26 trucks": 0.32,
+    "26-100": 0.458,
+    "101-250": 0.523,
+    "251-1,000": 0.626,
+    ">1,000": 0.707
+  },
+  "turnover_pts_per_5000_pay": -0.029,
+  "turnover_pts_per_30min_dwell": 0.054,
+  "truckload_operating_margin": {
+    "2023": 0.03,
+    "2024": -0.023,
+    "2025": 0.004
+  },
+  "truckload_dry_van_revenue_per_mile_2025": 3.036,
+  "replacement_cost_per_driver_2000usd": 8234,
+  "replacement_cost_range_2000usd": [
+    2243,
+    20729
+  ],
+  "replacement_cost_per_driver_jan2026usd": 15865.67,
+  "cpi_multiplier_2000_to_2026": 1.9268,
+  "burks_monaco_turnover_large_tl": 0.94,
+  "burks_monaco_turnover_small_tl": 0.792,
+  "miller_eld_spot_to_contract_passthrough": {
+    "spot_change": 0.2,
+    "contract_change": 0.04,
+    "lag_months": "4-6"
+  },
+  "miller_turnover_price_effect": {
+    "turnover_pts": 10,
+    "price_change_pct": 0.51,
+    "condition": "rapid payroll expansion only"
+  },
+  "_sources": {
+    "ATRI": "ATRI, Analysis of the Operational Costs of Trucking: 2026 Update (July 2026) \u2014 Tables 8, 11, 13, 18; Figures 2, 19, 22, 23, 24, 27; Table 21",
+    "replacement_cost": "Rodriguez, Kosir, Lantz, Griffin & Glatt (2000), The Costs of Truckload Driver Turnover, UGPTI SP-146. Inflated from January 2000 to January 2026 dollars with the BLS CPI Inflation Calculator ($15,865.67).",
+    "burks_monaco": "Burks & Monaco (2019), Monthly Labor Review \u2014 ATA turnover averages 1995-2017",
+    "miller_eld": "Miller, Scott & Williams (2021), Journal of Business Logistics 42(4) \u2014 via U. of Arkansas summary",
+    "miller_turnover": "Miller, Muir, Bolumole & Griffis, Journal of Business Logistics \u2014 via U. of Arkansas summary"
+  }
+}

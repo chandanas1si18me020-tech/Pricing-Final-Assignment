@@ -1,0 +1,6 @@
+region,fuel,truck_procurement,trailer_procurement,repair_maintenance,insurance,permits_licenses,tires,tolls,driver_wages,driver_benefits,total_reported,total_calc
+Midwest,0.466,0.294,0.128,0.214,0.098,0.007,0.051,0.038,0.748,0.186,2.23,2.23
+Northeast,0.491,0.321,0.125,0.221,0.12,0.009,0.05,0.079,0.852,0.248,2.516,2.516
+Southeast,0.454,0.27,0.109,0.198,0.11,0.009,0.05,0.041,0.802,0.201,2.245,2.244
+South Central,0.457,0.28,0.107,0.194,0.102,0.011,0.052,0.036,0.781,0.21,2.229,2.23
+West,0.535,0.324,0.134,0.219,0.111,0.006,0.046,0.021,0.764,0.216,2.377,2.376
